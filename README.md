@@ -4,8 +4,8 @@ A program that solves a given maze
        CONSOLE APPLICATION : kMaze
 ========================================================================
 	author	:	Kamran H. Khan 
-	email	:	kamran_h_khan@yahoo.com
-	web	:	http://geocities.com/sharpsucker/index.htm
+	email	:	kamranhk_at_gmai
+	web	:	IZLOOITE.blogspot.com
 
 	purpose	:	A prerequisite for finding an opportunity in ITA.
 	
